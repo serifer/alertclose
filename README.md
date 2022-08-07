@@ -3,6 +3,7 @@
 
 # 更新预告
 - 2.0.0  
+[+] 修改包名从com.mhook.dialog.fix->com.mhook.dialog.plus
 [+] 专属定制->增加b站的ijkplayer开源视频播放框架跳过片头功能  
 [+] 开发者功能->Intent记录  
 [-] 移除app启动时禁用网络->关键字过滤功能（有点不太稳定，待以后再完善下吧）  
