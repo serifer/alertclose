@@ -1,10 +1,15 @@
 [
   {
-    "text":"这时一个来临时十大高手大噶山豆根啊山豆根山豆根是阿斯顿噶山豆根这三个都是在山豆根山豆根是咋个真的是发噶山豆根",
-    "url":"https://netcut.cn/serifer"
+    "title": "系统升级通知",
+    "content": "亲爱的用户，为了提供更优质的服务，我们将于2023年10月28日凌晨1:00至4:00进行系统升级维护。期间服务可能会短暂中断，敬请谅解。",
+    "url": "https://example.com/upgrade-notice"
   },
   {
-    "text":"【特卖】 撒大噶杀杀杀是淡黄色的女生......",
-    "url":"https://baidu.com/"
+    "text": "【最新活动】国庆假期特惠，全场商品8折起！",
+    "url": "https://example.com/promo/national-day"
+  },
+  {
+    "text": "您关注的《编程入门指南》已更新至第5章，快来学习吧！",
+    "url": "https://example.com/course/programming-guide/chapter5"
   }
 ]
